@@ -35,6 +35,7 @@ GIF created with ...
 ## Notes
 
 Describe any challenges encountered while building the app.
+Rather than specific challenges building the app, it was difficult to generate a gif small enough that pushing to the remote repository didn't crash. If anything, the most confusing portion was regular vs arrow functions.
 
 ## License
 
